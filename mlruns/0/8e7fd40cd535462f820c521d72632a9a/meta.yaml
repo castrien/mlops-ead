@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Claudio-PC/Documents/pucmg-mlops/mlruns/0/8e7fd40cd535462f820c521d72632a9a/artifacts
+end_time: 1748692400362
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8e7fd40cd535462f820c521d72632a9a
+run_name: experiment_mlops_ead
+run_uuid: 8e7fd40cd535462f820c521d72632a9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748692399105
+status: 3
+tags: []
+user_id: Claudio-PC
